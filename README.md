@@ -1,3 +1,3 @@
 # ava-test
-run npm install
-run npm test
+- run npm install
+- run npm test
